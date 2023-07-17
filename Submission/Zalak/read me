@@ -1,1 +1,9 @@
-Submit your notebooks here for evaluation.
+Interestship 5.0 at Clique.org in collaboration with WIE IEEE Gujarat Section
+
+Project Title: Credit Card Fraud Detection Model In this project, we have tried to implement various Machine Learning models to classify a transaction as a fraud or non-fraud.
+
+Model implemented: Logistic Regression, KNN, SVM, Decision Tree Classifier and XGBoost
+
+Dataset link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+Colab link: https://drive.google.com/file/d/1q9kFC1ZiIVjxF5H1yTRH3kzJQQC872TD/view?usp=sharing
